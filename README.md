@@ -32,3 +32,6 @@ pnpm dev
 ## Relationship to MiseBuy
 
 Prep cleans one file. [MiseBuy](https://github.com/luizvb/misebuy) compares multiple suppliers, applies pack math, groups selected lines, and preserves history in paid plans. Prep remains independently useful and MIT licensed.
+
+- Tool: https://misebuy-prep.netolabs.dev
+- Product: https://misebuy.netolabs.dev
